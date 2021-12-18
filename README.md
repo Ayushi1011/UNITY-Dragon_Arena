@@ -1,5 +1,5 @@
 # UNITY-Dragon_Arena
-Concept : Game which runs in loop with objective of player to dodge the obstacles OR kill the enemy!!
+
 ![image](https://user-images.githubusercontent.com/70264477/146643286-ef63d0f9-5cb0-491d-9bb7-7a375cdda313.png)
 
 
